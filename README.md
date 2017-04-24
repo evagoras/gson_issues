@@ -31,24 +31,24 @@ mystruct = {
 Output:
 ```
 {
-    "myarray": [
-        {
-            "booleanCast2": false,
-            "null": null,
-            "booleanString2": "yes",
-            "doubleCast": 5.44,
-            "nullString": "null",
-            "int": "123",
-            "intCast": 123,
-            "boolean": "false",
-            "boolean2": "true",
-            "intString": "123",
-            "double": "5.44",
-            "doubleString": "5.44",
-            "booleanCast": true,
-            "booleanString": "no"
-        }
-    ]
+	"myarray": [
+		{
+			"null": null,
+			"nullString": "null",
+			"boolean": "false",
+			"boolean2": "true",
+			"booleanCast": true,
+			"booleanCast2": false,
+			"booleanString": "no"
+			"booleanString2": "yes",
+			"double": "5.44",
+			"doubleCast": 5.44,
+			"doubleString": "5.44",
+			"int": "123",
+			"intCast": 123,
+			"intString": "123",
+		}
+	]
 }
 ```
 <img src="https://github.com/evagoras/gson_issues/blob/master/gson_issues.png" alt="Output">
