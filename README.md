@@ -4,7 +4,7 @@
 ## CommandBox
 Clone into a folder, `cd` into it using CommandBox and type `start`.
 
-## Issues
+## Serialization Issues
 Input:
 ```
 mystruct = {
