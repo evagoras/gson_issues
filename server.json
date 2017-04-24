@@ -1,0 +1,13 @@
+{
+    "app":{
+        "libDirs":"lib",
+        "cfengine":"adobe@11"
+    },
+    "http":{
+        "port":"8055",
+        "enable":"true"
+    },
+    "rewrites":{
+        "enable":"true"
+    }
+}
