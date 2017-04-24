@@ -51,3 +51,4 @@ Output:
     ]
 }
 ```
+<img src="https://github.com/evagoras/gson_issues/blob/master/gson_issues.png" alt="Output">
