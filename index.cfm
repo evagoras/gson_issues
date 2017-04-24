@@ -4,16 +4,20 @@ gson = new gson();
 mystruct = {
 	"myarray" = [
 		{
-			"key1" = 123,
-			"key2" = "123",
-			"key3" = "no",
-			"key4" = false,
-			"key5" = "yes",
-			"key6" = javacast("boolean", true),
-			"key7" = true,
-			"key8" = javacast("null", 0),
-			"key9" = 5.44,
-			"key10" = javacast("double", 5.44)
+			"int" = 123,
+			"intString" = "123",
+			"intCast" = javacast("int", 123),
+			"booleanString" = "no",
+			"boolean" = false,
+			"booleanString2" = "yes",
+			"booleanCast" = javacast("boolean", true),
+			"booleanCast2" = javacast("boolean", false),
+			"boolean2" = true,
+			"null" = javacast("null", 0),
+			"nullString" = "null",
+			"double" = 5.44,
+			"doubleString" = "5.44",
+			"doubleCast" = javacast("double", 5.44)
 		}
 	]
 };
